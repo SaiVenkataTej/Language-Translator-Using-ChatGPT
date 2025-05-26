@@ -1,0 +1,21 @@
+S.No,Source,Target,Sentence in Source,Sentence in Target
+1,Hindi,French,नमस्ते, आप कैसे हैं?,Bonjour, comment allez-vous ?
+2,French,Spanish,Bonjour, comment allez-vous ?,Hola, ¿cómo estás?
+3,Spanish,Telugu,Hola, ¿cómo estás?,హలో, మీరు ఎలా ఉన్నారు?
+4,Telugu,Arabic,హలో, మీరు ఎలా ఉన్నారు?,مرحبًا، كيف حالك؟
+5,Arabic,Japanese,مرحبًا، كيف حالك؟,こんにちは、お元気ですか？
+6,Japanese,Hindi,こんにちは、お元気ですか？,नमस्ते, आप कैसे हैं?
+7,Hindi,Spanish,आपका नाम क्या है?,¿Cómo te llamas?
+8,French,Telugu,Comment vous appelez-vous ?,మీ పేరు ఏమిటి?
+9,Spanish,Arabic,¿Cómo te llamas?,ما اسمك؟
+10,Telugu,Japanese,మీ పేరు ఏమిటి?,お名前は何ですか？
+11,Arabic,French,ما اسمك؟,Comment vous appelez-vous ?
+12,Japanese,Spanish,お名前は何ですか？,¿Cómo te llamas?
+13,Hindi,Telugu,आपसे मिलकर अच्छा लगा।,మిమ్మల్ని కలిసినందుకు ఆనందంగా ఉంది.
+14,French,Arabic,Enchanté de vous rencontrer.,سعيد بلقائك.
+15,Spanish,Japanese,Encantado de conocerte.,お会いできてうれしいです。
+16,Telugu,French,మిమ్మల్ని కలిసినందుకు ఆనందంగా ఉంది.,Enchanté de vous rencontrer.
+17,Arabic,Telugu,سعيد بلقائك.,మిమ్మల్ని కలిసినందుకు ఆనందంగా ఉంది.
+18,Japanese,Arabic,お会いできてうれしいです。,سعيد بلقائك.
+19,Hindi,Japanese,आप कहाँ से हैं?,どちらからいらっしゃいましたか？
+20,French,Hindi,D'où venez-vous ?,आप कहाँ से हैं?

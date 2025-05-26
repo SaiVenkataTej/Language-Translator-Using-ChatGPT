@@ -1,0 +1,144 @@
+Source Language,Target Language,Source Sentence,Target Sentence
+English,Telugu,"Hello, how are you?","నమస్కారం, మీరు ఎలా ఉన్నారు? (Namaskaram, meeru elaa unnaaru?)"
+English,Telugu,What is your name?,మీ పేరు ఏమిటి? (Mee peru emit’i?)
+English,Telugu,Nice to meet you.,మిమ్మల్ని కలవడం ఆనందంగా ఉంది. (Mimmalli kalavaḍaṁ ānandaṅgā undi.)
+English,Telugu,Where are you from?,మీరు ఎక్కడి నుండి వచ్చారు? (Meeru ekkaḍi nuṇḍi vacchāru?)
+English,Telugu,Can you tell me how to get to the nearest bus stop?,దగ్గరలో ఉన్న బస్ స్టాప్ కి ఎలా వెళ్ళాలో మీరు చెప్పగలరా? (Daggarlō unna bas sṭāp ki elaa veḷḷālō meeru cheppagalaraa?)
+English,Telugu,Is there a restroom nearby?,పక్కన టాయిలెట్ ఉందా? (Pakkan’a ṭāyileṭ undaa?)
+English,Telugu,How far is the train station from here?,ఇక్కడ నుండి రైల్వే స్టేషన్ ఎంత దూరం? (Ikkaḍa nuṇḍi railvē sṭēṣan enta dūraṁ?)
+English,Telugu,Which way is the market?,మార్కెట్ ఏ దిశలో ఉంది? (Mārkeṭ ē diśalō undi?)
+English,Telugu,How much does this cost?,దీని ధర ఎంత? (Deeni dhara enta?)
+English,Telugu,Do you have this in a different size/color?,ఇది వేరే సైజు/రంగులో ఉందా? (Idi vēre saiju/raṅgulō undaa?)
+English,Telugu,"Can I see the menu, please?",దయచేసి మెనూ చూడవచ్చా? (Dayacēsi menū chūḍavaccā?)
+English,Telugu,I would like to order food for takeout.,నాకు పార్సల్ కావాలి. (Naaku pārsal kaavaali.)
+English,Telugu,"Could you help me, please?",దయచేసి నాకు సహాయం చేయగలరా? (Dayacēsi naaku sahāyaṁ cēyagalaraa?)
+English,Telugu,Can you speak more slowly?,మీరు ఇంకా నెమ్మదిగా మాట్లాడగలరా? (Meeru inkaa nemmadigaa māṭlāḍagalaraa?)
+English,Telugu,I need a doctor.,నాకు డాక్టర్ కావాలి. (Naaku ḍākṭar kaavaali.)
+English,Telugu,Please call a taxi for me.,నాకు టాక్సీని పిలవండి. (Naaku ṭāksīni pilavaṇḍi.)
+English,Telugu,What time is it?,సమయం ఎంత అయింది? (Samayaṁ enta ayindi?)
+English,Telugu,It’s very hot/cold today.,ఈరోజు చాలా వేడిగా/చల్లగా ఉంది. (Eerōju cālā vēḍigaa/callagaa undi.)
+English,Telugu,I don’t understand.,నాకు అర్థం కాలేదు. (Naaku artham kālēdu.)
+English,Telugu,Can you repeat that?,మీరు మళ్ళీ చెప్పగలరా? (Meeru maḷḷī cheppagalaraa?)
+English,Telugu,I need help.,నాకు సహాయం కావాలి. (Naaku sahāyaṁ kaavaali.)
+English,Telugu,పోలీసులకు కాల్ చేయండి. (Poolīusulaku kāl cēyaṇḍi.),
+English,Telugu,I lost my passport.,నా పాస్పోర్ట్ పోయింది. (Naa pāsporṭ pōyindi.)
+English,Telugu,There is a fire.,అక్కడ నిప్పు ఉంది. (Akkaḍa nippu undi.)
+English,Hindi,"Hello, how are you?",नमस्ते आप कैसे हैं? (Namaste aap kaise hain?)
+English,Hindi,What is your name?,आपका नाम क्या है? (Aapka naam kya hai?)
+English,Hindi,Nice to meet you.,आपसे मिलकर खुशी हुई। (Aapse milkar khushi hui.)
+English,Hindi,Where are you from?,आप कहाँ से हैं? (Aap kahaan se hain?)
+English,Hindi,Can you tell me how to get to the nearest bus stop?,क्या आप मुझे बता सकते हैं कि सबसे पास बस स्टॉप कैसे पहुँचें? (Kya aap mujhe bata sakte hain ki sabse paas bus stop kaise pahunchen?)
+English,Hindi,Is there a restroom nearby?,क्या आस-पास कोई शौचालय है? (Kya aas-paas koi shauchalay hai?)
+English,Hindi,How far is the train station from here?,ट्रेन स्टेशन यहाँ से कितनी दूर है? (Train station yahaan se kitni door hai?)
+English,Hindi,Which way is the market?,बाज़ार किस तरफ है? (Baazaar kis taraf hai?)
+English,Hindi,How much does this cost?,यह कितने का है? (Yah kitne ka hai?)
+English,Hindi,Do you have this in a different size/color?,क्या आपके पास यह किसी और साइज़/रंग में है? (Kya aapke paas yah kisi aur size/rang mein hai?)
+English,Hindi,"Can I see the menu, please?",क्या मैं मेनू देख सकता हूँ? (Kya main menu dekh sakta hoon?)
+English,Hindi,I would like to order food for takeout.,मैं खाने के लिए पैक करवाना चाहता हूँ। (Main khane ke liye pack karwana chahta hoon.)
+English,Hindi,"Could you help me, please?",क्या आप मेरी मदद कर सकते हैं? (Kya aap meri madad kar sakte hain?)
+English,Hindi,Can you speak more slowly?,क्या आप थोड़ा धीरे बोल सकते हैं? (Kya aap thoda dheere bol sakte hain?)
+English,Hindi,I need a doctor.,मुझे डॉक्टर की ज़रूरत है। (Mujhe doctor ki zaroorat hai.)
+English,Hindi,Please call a taxi for me.,कृपया मेरे लिए टैक्सी बुला दीजिए। (Kripya mere liye taxi bula dijiye.)
+English,Hindi,What time is it?,समय क्या हुआ है? (Samay kya hua hai?)
+English,Hindi,It’s very hot/cold today.,आज बहुत गर्मी/ठंड है। (Aaj bahut garmi/thand hai.)
+English,Hindi,I don’t understand.,मैं समझा नहीं। (Main samjha nahin.)
+English,Hindi,Can you repeat that?,क्या आप वह दोहरा सकते हैं? (Kya aap vah dohara sakte hain?)
+English,Hindi,I need help.,मुझे मदद चाहिए। (Mujhe madad chahiye.)
+English,Hindi,Call the police.,पुलिस बुलाओ। (Police bulao.)
+English,Hindi,I lost my passport.,मेरा पासपोर्ट खो गया है। (Mera passport kho gaya hai.)
+English,Hindi,There is a fire.,आग लगी है। (Aag lagi hai.)
+English,Spanish,"Hello, how are you?","¿Hola, cómo estás?"
+English,Spanish,What is your name?,¿Cómo te llamas?
+English,Spanish,Nice to meet you.,Encantado/a de conocerte.
+English,Spanish,Where are you from?,¿De dónde eres?
+English,Spanish,Can you tell me how to get to the nearest bus stop?,¿Puede decirme cómo llegar a la parada de autobús más cercana?
+English,Spanish,Is there a restroom nearby?,¿Hay un baño cerca?
+English,Spanish,How far is the train station from here?,¿A qué distancia está la estación de tren de aquí?
+English,Spanish,Which way is the market?,¿Hacia qué dirección está el mercado?
+English,Spanish,How much does this cost?,¿Cuánto cuesta esto?
+English,Spanish,Do you have this in a different size/color?,¿Tiene esto en un tamaño/color diferente?
+English,Spanish,"Can I see the menu, please?","¿Puedo ver el menú, por favor?"
+English,Spanish,I would like to order food for takeout.,Me gustaría pedir comida para llevar.
+English,Spanish,"Could you help me, please?","¿Podría ayudarme, por favor?"
+English,Spanish,Can you speak more slowly?,¿Puede hablar más despacio?
+English,Spanish,I need a doctor.,Necesito un médico.
+English,Spanish,Please call a taxi for me.,"Por favor, pida un taxi para mí."
+English,Spanish,What time is it?,¿Qué hora es?
+English,Spanish,It’s very hot/cold today.,Hoy hace mucho calor/frío.
+English,Spanish,I don’t understand.,No entiendo.
+English,Spanish,Can you repeat that?,¿Puede repetir eso?
+English,Spanish,I need help.,Necesito ayuda.
+English,Spanish,Call the police.,Llame a la policía.
+English,Spanish,I lost my passport.,Perdí mi pasaporte.
+English,Spanish,There is a fire.,Hay un incendio.
+English,Arabic,"Hello, how are you?","مرحباً، كيف حالك؟ (Marhaban, kayfa haluk?)"
+English,Arabic,What is your name?,ما اسمك؟ (Ma ismuk?)
+English,Arabic,Nice to meet you.,تشرفت بمعرفتك. (Tasharraftu bima'rifatik.)
+English,Arabic,Where are you from?,من أين أنت؟ (Min ayna ant?)
+English,Arabic,Can you tell me how to get to the nearest bus stop?,هل يمكنك أن تخبرني كيف أصل إلى أقرب موقف للحافلات؟ (Hal yumkinuka an tukhbirani kayfa asil ila aqrab mawqif lilhafilat?)
+English,Arabic,Is there a restroom nearby?,هل يوجد حمام قريب؟ (Hal yujadu hammam qarib?)
+English,Arabic,How far is the train station from here?,كم تبعد محطة القطار من هنا؟ (Kam tab'ud mahattat al-qitar min huna?)
+English,Arabic,Which way is the market?,في أي اتجاه السوق؟ (Fi ayyi ittijah as-suq?)
+English,Arabic,How much does this cost?,بكم هذا؟ (Bikam hadha?)
+English,Arabic,Do you have this in a different size/color?,هل لديكم هذا بحجم/لون مختلف؟ (Hal ladaykum hadha bihajm/lawn mukhtalif?)
+English,Arabic,"Can I see the menu, please?","هل يمكنني رؤية القائمة، من فضلك؟ (Hal yumkinuni ru'yat al-qa'imah, min fadlik?)"
+English,Arabic,I would like to order food for takeout.,أود طلب طعام سفري. (Awadd talab ta'am safari.)
+English,Arabic,"Could you help me, please?",هل يمكنك مساعدتي من فضلك؟ (Hal yumkinuka musa'adati min fadlik?)
+English,Arabic,Can you speak more slowly?,هل يمكنك التحدث ببطء أكثر؟ (Hal yumkinuka at-tahadduth bibut' akthar?)
+English,Arabic,I need a doctor.,أحتاج طبيباً. (Ahtaju tabiban.)
+English,Arabic,Please call a taxi for me.,رجاءً اطلب لي سيارة أجرة. (Raja'an utlub li sayyarat ajrah.)
+English,Arabic,What time is it?,كم الساعة؟ (Kam as-sa'ah?)
+English,Arabic,It’s very hot/cold today.,اليوم حار/بارد جداً. (Al-yawm harr/barid jiddan.)
+English,Arabic,I don’t understand.,لا أفهم. (La afham.)
+English,Arabic,Can you repeat that?,هل يمكنك تكرار ذلك؟ (Hal yumkinuka takrar dhalik?)
+English,Arabic,I need help.,أحتاج مساعدة. (Ahtaju musa'adah.)
+English,Arabic,Call the police.,اتصل بالشرطة. (Ittasil bi-shurtah.)
+English,Arabic,I lost my passport.,لقد فقدت جواز سفري. (Laqad faqadtu jawaz safari.)
+English,Arabic,There is a fire.,يوجد حريق. (Yujadu hariq.)
+English,French,"Hello, how are you?","Bonjour, comment ça va ?"
+English,French,What is your name?,Comment vous appelez-vous ?
+English,French,Nice to meet you.,Ravi(e) de vous rencontrer.
+English,French,Where are you from?,D'où venez-vous ?
+English,French,Can you tell me how to get to the nearest bus stop?,Pouvez-vous me dire comment aller à l'arrêt de bus le plus proche ?
+English,French,Is there a restroom nearby?,Y a-t-il des toilettes à proximité ?
+English,French,How far is the train station from here?,À quelle distance se trouve la gare d'ici ?
+English,French,Which way is the market?,Dans quelle direction est le marché ?
+English,French,How much does this cost?,Combien coûte ceci ?
+English,French,Do you have this in a different size/color?,Avez-vous ceci dans une taille/couleur différente ?
+English,French,"Can I see the menu, please?","Puis-je voir le menu, s'il vous plaît ?"
+English,French,I would like to order food for takeout.,Je voudrais commander de la nourriture à emporter.
+English,French,"Could you help me, please?","Pourriez-vous m'aider, s'il vous plaît ?"
+English,French,Can you speak more slowly?,Pouvez-vous parler plus lentement ?
+English,French,I need a doctor.,J'ai besoin d'un médecin.
+English,French,Please call a taxi for me.,Veuillez appeler un taxi pour moi.
+English,French,What time is it?,Quelle heure est-il ?
+English,French,It’s very hot/cold today.,Il fait très chaud/froid aujourd'hui.
+English,French,I don’t understand.,Je ne comprends pas.
+English,French,Can you repeat that?,Pouvez-vous répéter cela ?
+English,French,I need help.,J'ai besoin d'aide.
+English,French,Call the police.,Appelez la police.
+English,French,I lost my passport.,J'ai perdu mon passeport.
+English,French,There is a fire.,Il y a un incendie.
+English,Japanese,"Hello, how are you?","こんにちは、お元気ですか？ (Konnichiwa, ogenki desu ka?)"
+English,Japanese,What is your name?,"お名前は何ですか？ (Onamae wa nan desu ka?)"
+English,Japanese,Nice to meet you.,"はじめまして。 (Hajimemashite.)"
+Hindi,French,नमस्ते, आप कैसे हैं?,Bonjour, comment allez-vous ?
+French,Spanish,Bonjour, comment allez-vous ?,Hola, ¿cómo estás?
+Spanish,Telugu,Hola, ¿cómo estás?,హలో, మీరు ఎలా ఉన్నారు?
+Telugu,Arabic,హలో, మీరు ఎలా ఉన్నారు?,مرحبًا، كيف حالك؟
+Arabic,Japanese,مرحبًا، كيف حالك؟,こんにちは、お元気ですか？
+Japanese,Hindi,こんにちは、お元気ですか？,नमस्ते, आप कैसे हैं?
+Hindi,Spanish,आपका नाम क्या है?,¿Cómo te llamas?
+French,Telugu,Comment vous appelez-vous ?,మీ పేరు ఏమిటి?
+Spanish,Arabic,¿Cómo te llamas?,ما اسمك؟
+Telugu,Japanese,మీ పేరు ఏమిటి?,お名前は何ですか？
+Arabic,French,ما اسمك؟,Comment vous appelez-vous ?
+Japanese,Spanish,お名前は何ですか？,¿Cómo te llamas?
+Hindi,Telugu,आपसे मिलकर अच्छा लगा।,మిమ్మల్ని కలిసినందుకు ఆనందంగా ఉంది.
+French,Arabic,Enchanté de vous rencontrer.,سعيد بلقائك.
+Spanish,Japanese,Encantado de conocerte.,お会いできてうれしいです。
+Telugu,French,మిమ్మల్ని కలిసినందుకు ఆనందంగా ఉంది.,Enchanté de vous rencontrer.
+Arabic,Telugu,سعيد بلقائك.,మిమ్మల్ని కలిసినందుకు ఆనందంగా ఉంది.
+Japanese,Arabic,お会いできてうれしいです。,سعيد بلقائك.
+Hindi,Japanese,आप कहाँ से हैं?,どちらからいらっしゃいましたか？
+French,Hindi,D'où venez-vous ?,आप कहाँ से हैं?
